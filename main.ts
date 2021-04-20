@@ -3,3 +3,4 @@
  */
 // This is your on-start block.  This container of code will run when you start your game.
 // 
+//To comment in your JS, use the double /
